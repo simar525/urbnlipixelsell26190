@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/pixelsell",
+      "dest": "https://pixelsell.webflow.io/$1"
+ }
+  ]
+}
